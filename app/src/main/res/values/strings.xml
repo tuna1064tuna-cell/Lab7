@@ -1,0 +1,6 @@
+
+<resources>
+    <string name="app_name">LAP7 Service Notification</string>
+    <string name="download">Download</string>
+    <string name="enter_url">Nhập URL file cần tải...</string>
+</resources>
